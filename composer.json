@@ -23,6 +23,6 @@
 		"smuuf/koloader": "dev-master",
 		"smuuf/phpcb": "dev-master",
 		"nette/tester": "^2.0",
-		"phpstan/phpstan": "^0.9.1"
+		"phpstan/phpstan": "^0.9.1 || ^0.12.0"
 	}
 }
