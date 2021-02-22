@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "smuuf/php-peg",
-            "version": "2.1",
+            "version": "2.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/smuuf/php-peg.git",
-                "reference": "a50922612302a9366a62f7541649e85dee504af3"
+                "reference": "270db35dc448760c7dcd27a4c0927b0b32f381eb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/smuuf/php-peg/zipball/a50922612302a9366a62f7541649e85dee504af3",
-                "reference": "a50922612302a9366a62f7541649e85dee504af3",
+                "url": "https://api.github.com/repos/smuuf/php-peg/zipball/270db35dc448760c7dcd27a4c0927b0b32f381eb",
+                "reference": "270db35dc448760c7dcd27a4c0927b0b32f381eb",
                 "shasum": ""
             },
             "require": {
@@ -46,6 +46,10 @@
                     "role": "Developer"
                 },
                 {
+                    "name": "Premysl Karbula",
+                    "role": "Developer"
+                },
+                {
                     "name": "Johannes Künsebeck",
                     "email": "kuensebeck@googlemail.com",
                     "role": "Developer"
@@ -53,10 +57,6 @@
                 {
                     "name": "Dan Phillimore",
                     "email": "dan@ovms.co",
-                    "role": "Developer"
-                },
-                {
-                    "name": "Premysl Karbula",
                     "role": "Developer"
                 }
             ],
@@ -68,7 +68,10 @@
                 "parser",
                 "peg"
             ],
-            "time": "2018-03-08T00:01:30+00:00"
+            "support": {
+                "source": "https://github.com/smuuf/php-peg/tree/2.2.3"
+            },
+            "time": "2020-12-03T23:58:16+00:00"
         }
     ],
     "packages-dev": [
